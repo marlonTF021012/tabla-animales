@@ -7,6 +7,14 @@
     <title>ANIMALES </title>
     <style>
         body {
+            background-image: url(https://img.freepik.com/vector-gratis/conjunto-animal-salvaje_1308-26440.jpg?w=2000);
+            background-image: no-repeat;
+            background-image: fixed;
+            background-image: center;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
             background-color: #2b97fa;
             font-family: Arial, Helvetica, sans-serif;
             font-size: 16px;
